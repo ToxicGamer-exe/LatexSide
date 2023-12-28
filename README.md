@@ -6,5 +6,5 @@ I should also mention that this is Mac oriented, I didn't test it on Windows yet
 
 # TeXiFy
 - I suppose you already have Writerside downloaded (Or any other Jetbrains IDE), so I'm not gonna walk you through that
-- First (easiest) thing you wanna do is download this awesome plugin called ![**TeXiFy**](https://plugins.jetbrains.com/plugin/9473-texify-idea)
+- First (easiest) thing you wanna do is download this awesome plugin called **[TeXiFy](https://plugins.jetbrains.com/plugin/9473-texify-idea)**
 - As you probably know you can download it right in IDE. Go to the **Settings(`Cmd+,` or `Ctrl+Alt+S`)>Plugins** and in the Marketplace tab, find TeXiFy. **Install** it and don't forget to **restart** your selected IDE if the installation requires it.
