@@ -51,10 +51,12 @@ I should also mention that this is Mac oriented, I didn't test it on Windows yet
 - There is also my indentconfig.yaml that you can use for further customisation, just put it in home directory and change the path in the config.
 - [GitHub repo](https://github.com/cmhughes/latexindent.pl) | [Documentation](https://latexindentpl.readthedocs.io/en/stable/)
 
+
+# TODO
 - Config descriptions / Custom settings
 - Brew/Perl?
 - (Custom language support?)
-- (Github?)
+- (Github integration?)
 
 # Common Issues
 ### Pdflatex doesn't work
